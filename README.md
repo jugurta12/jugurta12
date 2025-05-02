@@ -1,4 +1,4 @@
-## Hi there 👋
+![](http://profile-summary-cards.vercel.app/api/cards/profile-details?username=jugurta12&theme=2077)
 
 <!--
 **jugurta12/jugurta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
