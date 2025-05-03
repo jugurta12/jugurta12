@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hello! I'm Jugurta, a student in web and app development.</p>
+<h1 align="center">Hello! I'm Jugurta, a student in web and app development.</H1>
 
 ###
 
