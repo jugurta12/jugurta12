@@ -8,9 +8,8 @@
 
 ###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jugurta12&theme=transparent) 
-
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jugurta12&theme=transparent" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jugurta12&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jugurta12&theme=transparent&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jugurta12&theme=transparent&utcOffset=8" style="margin-left: 10px;" />
 </div>
