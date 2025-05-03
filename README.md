@@ -4,17 +4,13 @@
 
 ###
 
-<h1 align="center">Hello! I'm Jugurta, a student in web and app development.</H1>
+<h1 align="center">Hello! I'm Jugurta, a student in web and app development.</h1>
 
 ###
 
-
-
-
-
-
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jugurta12&theme=transparent) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jugurta12&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jugurta12&theme=transparent&utcOffset=8)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jugurta12&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jugurta12&theme=transparent&utcOffset=8" />
+</div>
