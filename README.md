@@ -49,7 +49,7 @@
 <h2 align="center">Connect with me 😺</h2>
 
 <div align="center">
-  <a href="https://discord.com/users/tonID" target="_blank">
+  <a href="https://discord.com/users/312311028228685824" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   
@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   
-  <a href="mailto:tonmail@outlook.com" target="_blank">
+  <a href="mailto:jugurta.abdessmed@efrei.net" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
   </a>
 </div>
