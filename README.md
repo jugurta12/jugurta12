@@ -14,7 +14,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jugurta12&theme=transparent&utcOffset=8" style="margin-left: 10px;" />
 </div>
 
-<h2 align="center">I code with</h2>
+<h2 align="center">I use</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
