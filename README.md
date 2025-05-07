@@ -6,6 +6,9 @@
 
 <h1 align="center">Hello!✌️
   I'm Jugurta, a student in web and app development.</h1>
+<h1 align="center">Hello!✌️
+  I'm Jugurta, a student in web and app development.</h1>
+
 
 ###
 
